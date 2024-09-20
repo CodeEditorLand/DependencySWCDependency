@@ -1,0 +1,131 @@
+[submodule "WebSiteSWC"]
+path = WebSiteSWC
+url = ssh://git@github.com/CodeEditorLand/WebSiteSWC.git
+
+[submodule "Rustdoc"]
+path = Rustdoc
+url = ssh://git@github.com/CodeEditorLand/Rustdoc.git
+
+[submodule "Register"]
+path = Register
+url = ssh://git@github.com/CodeEditorLand/Register.git
+
+[submodule "Bins"]
+path = Bins
+url = ssh://git@github.com/CodeEditorLand/Bins.git
+
+[submodule "Vote"]
+path = Vote
+url = ssh://git@github.com/CodeEditorLand/Vote.git
+
+[submodule "Cli"]
+path = Cli
+url = ssh://git@github.com/CodeEditorLand/Cli.git
+
+[submodule "SWCify"]
+path = SWCify
+url = ssh://git@github.com/CodeEditorLand/SWCify.git
+
+[submodule "Ddt"]
+path = Ddt
+url = ssh://git@github.com/CodeEditorLand/Ddt.git
+
+[submodule "PluginUtils"]
+path = PluginUtils
+url = ssh://git@github.com/CodeEditorLand/PluginUtils.git
+
+[submodule "Book"]
+path = Book
+url = ssh://git@github.com/CodeEditorLand/Book.git
+
+[submodule "Logo"]
+path = Logo
+url = ssh://git@github.com/CodeEditorLand/Logo.git
+
+[submodule "Plugins"]
+path = Plugins
+url = ssh://git@github.com/CodeEditorLand/Plugins.git
+
+[submodule "StringCache"]
+path = StringCache
+url = ssh://git@github.com/CodeEditorLand/StringCache.git
+
+[submodule "SWCPlayground"]
+path = SWCPlayground
+url = ssh://git@github.com/CodeEditorLand/SWCPlayground.git
+
+[submodule "PluginExamples"]
+path = PluginExamples
+url = ssh://git@github.com/CodeEditorLand/PluginExamples.git
+
+[submodule "Bot"]
+path = Bot
+url = ssh://git@github.com/CodeEditorLand/Bot.git
+
+[submodule "SWCLoader"]
+path = SWCLoader
+url = ssh://git@github.com/CodeEditorLand/SWCLoader.git
+
+[submodule "NodeSWC"]
+path = NodeSWC
+url = ssh://git@github.com/CodeEditorLand/NodeSWC.git
+
+[submodule "DbgSWC"]
+path = DbgSWC
+url = ssh://git@github.com/CodeEditorLand/DbgSWC.git
+
+[submodule "SWC"]
+path = SWC
+url = ssh://git@github.com/CodeEditorLand/SWC.git
+
+[submodule "Helpers"]
+path = Helpers
+url = ssh://git@github.com/CodeEditorLand/Helpers.git
+
+[submodule "SWCDev"]
+path = SWCDev
+url = ssh://git@github.com/CodeEditorLand/SWCDev.git
+
+[submodule "CrawlCoreVersion"]
+path = CrawlCoreVersion
+url = ssh://git@github.com/CodeEditorLand/CrawlCoreVersion.git
+
+[submodule "SWCSponsorImages"]
+path = SWCSponsorImages
+url = ssh://git@github.com/CodeEditorLand/SWCSponsorImages.git
+
+[submodule "RawGreenData"]
+path = RawGreenData
+url = ssh://git@github.com/CodeEditorLand/RawGreenData.git
+
+[submodule "SWCEcosystemCi"]
+path = SWCEcosystemCi
+url = ssh://git@github.com/CodeEditorLand/SWCEcosystemCi.git
+
+[submodule "SWCProject.github.io"]
+path = SWCProject.github.io
+url = ssh://git@github.com/CodeEditorLand/SWCProject.github.io.git
+
+[submodule "Pkgs"]
+path = Pkgs
+url = ssh://git@github.com/CodeEditorLand/Pkgs.git
+
+[submodule "LandSWCDevtools"]
+path = LandSWCDevtools
+url = ssh://git@github.com/CodeEditorLand/LandSWCDevtools.git
+
+[submodule "SWCNode"]
+path = SWCNode
+url = ssh://git@github.com/CodeEditorLand/SWCNode.git
+
+[submodule "ExtraBindings"]
+path = ExtraBindings
+url = ssh://git@github.com/CodeEditorLand/ExtraBindings.git
+
+[submodule "RawData"]
+path = RawData
+url = ssh://git@github.com/CodeEditorLand/RawData.git
+
+[submodule "TsParserTestRef"]
+path = TsParserTestRef
+url = ssh://git@github.com/CodeEditorLand/TsParserTestRef.git
