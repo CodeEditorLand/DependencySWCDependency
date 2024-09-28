@@ -129,3 +129,7 @@ url = ssh://git@github.com/CodeEditorLand/RawData.git
 [submodule "TsParserTestRef"]
 path = TsParserTestRef
 url = ssh://git@github.com/CodeEditorLand/TsParserTestRef.git
+
+[submodule "Jest"]
+path = Jest
+url = ssh://git@github.com/CodeEditorLand/Jest.git
