@@ -20,7 +20,7 @@ url = ssh://git@github.com/CodeEditorLand/Vote.git
 
 [submodule "Cli"]
 path = Cli
-url = ssh://git@github.com/CodeEditorLand/Cli.git
+url = ssh://git@github.com/CodeEditorLand/CLI.git
 
 [submodule "SWCify"]
 path = SWCify
