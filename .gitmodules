@@ -134,5 +134,5 @@ url = ssh://git@github.com/CodeEditorLand/TsParserTestRef.git
 path = Jest
 url = ssh://git@github.com/CodeEditorLand/Jest.git
 [submodule "CLI"]
-	path = CLI
-	url = ssh://git@github.com/CodeEditorLand/CLI.git
+path = CLI
+url = ssh://git@github.com/CodeEditorLand/CLI.git
